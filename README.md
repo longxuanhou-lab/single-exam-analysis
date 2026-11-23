@@ -17,3 +17,7 @@
 - [数据和计算](references/data.md)、[报告写法和版式](references/reports.md) 说明统计口径和导出方式。
 - 统计与排版脚本使用 Python 3.8 或以上版本。脚本直接导出 PDF 时需要 Chrome、Edge 或 Chromium，也可先导出 HTML，再用浏览器打印成 A4 PDF。
 - 仓库提供技能规则、脚本和通用封面。使用时请提供自己的考试材料。
+
+## 许可证
+
+仓库中的代码、样式表和文档按 [MIT 许可证](LICENSE) 提供。`templates/` 目录下的封面插画及安装包中的同款插画不在该许可范围内。
